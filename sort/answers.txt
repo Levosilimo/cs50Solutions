@@ -1,0 +1,12 @@
+//https://cs50.harvard.edu/x/2022/labs/3/
+sort1 uses: bubble sort
+
+How do you know?: This sort is slower than sort2 and sort3 on random and reversed arrays, but it is much faster than others on sorted arrays.
+
+sort2 uses: merge sort
+
+How do you know?: This sort is much faster than others on random and reversed arrays.
+
+sort3 uses: selection sort
+
+How do you know?: This sort has the same time on random and sorted arrays.
